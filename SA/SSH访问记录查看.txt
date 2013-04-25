@@ -1,0 +1,4 @@
+Q:查询ssh访问记录的方法
+A:cat /var/log/secure
+
+edit by ykc
